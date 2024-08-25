@@ -1,0 +1,10 @@
+<!-- <launch>
+    <node name="fusion_node" pkg="fus_pkg" type="fusion_node" output="screen"/>
+    <node pkg="rviz" type="rviz" name="rviz_fusion" args="-d $(find fus_pkg)/rviz_cfg/fusion1.rviz" respawn="true"/>
+</launch> -->
+
+
+<launch>
+    <node name="ekf_LR" pkg="fus_pkg" type="ekf_LR" output="screen"/>
+    <node pkg="rviz" type="rviz" name="rviz_fusion" args="-d $(find fus_pkg)/rviz_cfg/fusion1.rviz" respawn="true"/>
+</launch>

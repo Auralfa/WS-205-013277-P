@@ -1,0 +1,2 @@
+roslaunch scout_navigation scout_navigation.launch
+#roslaunch scout_navigation scout_navigation_static.launch

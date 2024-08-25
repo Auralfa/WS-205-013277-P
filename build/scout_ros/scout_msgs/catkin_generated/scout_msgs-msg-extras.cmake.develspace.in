@@ -1,0 +1,2 @@
+set(scout_msgs_MESSAGE_FILES "/home/zw/scout_ws/src/scout_ros/scout_msgs/msg/ScoutStatus.msg;/home/zw/scout_ws/src/scout_ros/scout_msgs/msg/ScoutMotorState.msg;/home/zw/scout_ws/src/scout_ros/scout_msgs/msg/ScoutLightState.msg;/home/zw/scout_ws/src/scout_ros/scout_msgs/msg/ScoutLightCmd.msg;/home/zw/scout_ws/src/scout_ros/scout_msgs/msg/ScoutBmsStatus.msg;/home/zw/scout_ws/src/scout_ros/scout_msgs/msg/ScoutDriverState.msg")
+set(scout_msgs_SERVICE_FILES "")

@@ -1,0 +1,8 @@
+prefix=/home/zw/scout_ws/install
+
+Name: oculii_sdk_ros_driver
+Description: Description of oculii_sdk_ros_driver
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

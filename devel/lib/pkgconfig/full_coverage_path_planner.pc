@@ -1,0 +1,8 @@
+prefix=/home/zw/scout_ws/devel
+
+Name: full_coverage_path_planner
+Description: Description of full_coverage_path_planner
+Version: 0.6.4
+Cflags: -I/home/zw/scout_ws/src/Scout_mini_ROS1_Navigation/packages/navigation_experimental/full_coverage_path_planner/include
+Libs: -L${prefix}/lib -lfull_coverage_path_planner
+Requires: base_local_planner costmap_2d nav_core pluginlib roscpp
