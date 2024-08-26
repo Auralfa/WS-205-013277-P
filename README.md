@@ -1,4 +1,6 @@
 # Navigation in Unknown Environments
+导航与建图同时进行使用
+
 cd ~/scout_ws
 
 sudo rm -r build
