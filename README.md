@@ -5,10 +5,17 @@
 局部规划使用 DWA, TEB 算法
 传感器使用 Hesai 激光雷达
 
-未知区域边导航边建图
+未知区域边导航边建图：
+
+
 ![nav_slam-2024-08-06_22 23 47](https://github.com/user-attachments/assets/0a90e90f-b5b4-40db-9f1b-67620de00b33)
 
-躲避动态障碍物
+
+
+
+自主躲避动态障碍物：
+
+
 ![nav_slam-2024-08-06_22 23 47_3](https://github.com/user-attachments/assets/c1b326d0-7de5-4374-8dd2-446230ff498c)
 
 
