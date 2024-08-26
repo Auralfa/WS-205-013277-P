@@ -6,7 +6,7 @@
 
 无人车机器人使用 Scout Mini
 
-全局规划使用 lattice, A*, Dijkstra 算法
+全局规划使用 lattice, RRT*, A*, Dijkstra 算法
 
 局部规划使用 DWA, TEB 算法
 
