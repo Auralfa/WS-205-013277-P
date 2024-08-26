@@ -11,7 +11,7 @@ source devel/setup.bash
 
 Bash scout.bash
 
-Bash lidar.bash
+Bash lidar_sensor.bash
 
 Bash pointcloud_to_laser.bash
 
