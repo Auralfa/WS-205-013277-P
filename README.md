@@ -2,6 +2,8 @@
 
 导航与建图同时进行，而不需要预先构建静态地图。舍弃了amcl和map_server，利用里程计和SLAM算法进行定位
 
+无人车机器人使用 Scout Mini
+
 全局规划使用 lattice, A*, Dijkstra 算法
 
 局部规划使用 DWA, TEB 算法
