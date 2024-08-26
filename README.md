@@ -1,6 +1,10 @@
 # Navigation in Unknown Environments
 cd ~/scout_ws
 
+sudo rm -r build
+
+sudo rm -r devel
+
 catkin_make
 
 source devel/setup.bash
