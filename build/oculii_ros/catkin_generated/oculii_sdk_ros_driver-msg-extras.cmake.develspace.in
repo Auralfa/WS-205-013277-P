@@ -1,2 +1,0 @@
-set(oculii_sdk_ros_driver_MESSAGE_FILES "/home/zw/scout_ws/src/oculii_ros/msg/RadarFrameAccuracy.msg")
-set(oculii_sdk_ros_driver_SERVICE_FILES "")

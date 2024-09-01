@@ -1,8 +1,0 @@
-prefix=/home/zw/scout_ws/install
-
-Name: evolutionary_planner
-Description: Description of evolutionary_planner
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: global_planner curve_generation utils
