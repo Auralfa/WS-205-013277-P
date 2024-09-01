@@ -6,7 +6,7 @@
 
 无人车机器人使用 Scout Mini
 
-全局规划使用 lattice, RRT*, A*, Dijkstra 算法
+全局规划使用 lattice, RRT, A*, Dijkstra 算法
 
 局部规划使用 DWA, TEB 算法
 
@@ -32,24 +32,3 @@
 
 ![2024-08-27 22-01-41 的屏幕截图](https://github.com/user-attachments/assets/ee18e7d8-24c0-436d-bb33-e838ce0eb84f)
 
-
-
-cd ~/scout_ws
-
-sudo rm -r build
-
-sudo rm -r devel
-
-catkin_make
-
-source devel/setup.bash
-
-Bash scout.bash
-
-Bash lidar_sensor.bash
-
-Bash pointcloud_to_laser.bash
-
-Bash mapping.bash
-
-Bash navigation.bash
