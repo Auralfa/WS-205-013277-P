@@ -1,0 +1,14 @@
+<launch>
+    <node pkg="robot_localization" type="ekf_localization_node" name="ekf_localization" clear_params="true" >
+        <rosparam command="load" file="$(find scout_filter)/param/ekf_template.yaml"/>
+        <remap from="odometry/filtered" to="odom"/>
+    </node>
+
+      <!-- The path_ekf_plotter node -->
+      <node name="path_odom_plotter" type="path_odom_plotter" pkg="fus_pkg">
+      </node>
+
+      <node pkg="rviz" type="rviz" name="rviz_fusion" args="-d $(find fus_pkg)/rviz_cfg/fusion1.rviz" respawn="true"/>
+
+
+</launch>
