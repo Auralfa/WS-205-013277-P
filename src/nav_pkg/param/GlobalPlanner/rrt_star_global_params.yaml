@@ -1,0 +1,9 @@
+# Just a example yaml config file
+# You should put this configutation at ~/husky_navigation/config/planner.yaml
+
+RRTStarPlanner:
+  goal_tolerance: 0.3
+  radius: 1.0
+  epsilon: 0.2
+  max_num_nodes: 5000
+  min_num_nodes: 500
