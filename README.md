@@ -31,5 +31,6 @@
 
 自主导航过程中所建地图：
 
-![2024-08-27 22-01-41 的屏幕截图](https://github.com/user-attachments/assets/ee18e7d8-24c0-436d-bb33-e838ce0eb84f)
+![image](https://github.com/user-attachments/assets/79ce1b83-c7d7-44f3-a73a-160f45ce027f)
+
 
