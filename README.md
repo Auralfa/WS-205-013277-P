@@ -28,6 +28,12 @@
 ![nav_slam-2024-08-06_22 23 47_3](https://github.com/user-attachments/assets/c1b326d0-7de5-4374-8dd2-446230ff498c)
 
 
+自主导航过程中所建地图：
+
+![2024-08-27 22-01-41 的屏幕截图](https://github.com/user-attachments/assets/ee18e7d8-24c0-436d-bb33-e838ce0eb84f)
+
+
+
 cd ~/scout_ws
 
 sudo rm -r build
