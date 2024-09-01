@@ -10,9 +10,9 @@
 
 局部规划使用 DWA, TEB 算法
 
-传感器使用 Hesai 激光雷达
+传感器使用 Hesai 激光雷达 和 Realsense D455 深度相机
 
-建图使用 Gmapping 算法 
+建图使用 Gmapping 和 Rtabmap 算法 
  
  
 未知区域边导航边建图：
