@@ -14,7 +14,6 @@
 
 建图使用 Gmapping 和 RTAB-Map 算法, 其中 RTAB-Map 可对相机和激光雷达数据融合
 
-使用 ekf localization 对多个 odom 融合
  
  
 未知区域边导航边建图：
