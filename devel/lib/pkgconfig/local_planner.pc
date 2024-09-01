@@ -1,8 +1,0 @@
-prefix=/home/zw/scout_ws/devel
-
-Name: local_planner
-Description: Description of local_planner
-Version: 0.0.0
-Cflags: -I/home/zw/scout_ws/src/Scout_mini_ROS1_Navigation/packages/core/local_planner/local_planner/local_planner/include
-Libs: -L${prefix}/lib -llocal_planner
-Requires: utils

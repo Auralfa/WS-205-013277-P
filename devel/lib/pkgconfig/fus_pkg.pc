@@ -1,8 +1,0 @@
-prefix=/home/zw/scout_ws/devel
-
-Name: fus_pkg
-Description: Description of fus_pkg
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

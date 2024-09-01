@@ -1,8 +1,0 @@
-prefix=/home/zw/scout_ws/devel
-
-Name: scout_base
-Description: Description of scout_base
-Version: 0.3.3
-Cflags: -I/home/zw/scout_ws/src/scout_ros/scout_base/include
-Libs: -L${prefix}/lib -lscout_messenger
-Requires: ugv_sdk scout_msgs

@@ -1,8 +1,0 @@
-prefix=/home/zw/scout_ws/devel
-
-Name: pose_follower
-Description: Description of pose_follower
-Version: 0.4.1
-Cflags: -I/home/zw/scout_ws/devel/include -I/home/zw/scout_ws/src/Scout_mini_ROS1_Navigation/packages/navigation_experimental/pose_follower/include
-Libs: -L${prefix}/lib -lpose_follower
-Requires: nav_core base_local_planner costmap_2d roscpp tf2_geometry_msgs tf2_ros nav_msgs pluginlib dynamic_reconfigure
