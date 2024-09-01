@@ -2,7 +2,7 @@
 
 导航与建图同时进行，而不需要预先构建静态地图。舍弃了amcl和map_server，利用里程计和SLAM算法进行定位
 
-操作系统为Ubuntu ROS
+操作系统为 Ubuntu20.04 Noetic
 
 无人车机器人使用 Scout Mini
 
