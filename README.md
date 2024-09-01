@@ -35,10 +35,3 @@
 
 
 
-
-
-直接建立二维栅格地图效果好于A-LOAM三维地图转换
-![image](https://github.com/user-attachments/assets/cfdb92ea-71df-429b-b39b-a2711d45bf8e)
-
-
-
