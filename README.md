@@ -12,7 +12,7 @@
 
 传感器使用 Hesai 激光雷达 和 Realsense D455 深度相机
 
-建图使用 Gmapping 和 RTAB-Map 算法, 其中 RTAB-Map 可对相机和激光雷达数据融合
+建图使用 Gmapping 和 RTAB-Map 算法
 
  
  
