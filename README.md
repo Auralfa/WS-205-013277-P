@@ -12,7 +12,7 @@
 
 传感器主要使用 Hesai 激光雷达
 
-建图使用 Gmapping 算法，效果优于 Octomap 转换 A-LOAM
+建图使用 Gmapping 算法，效果优于 Octomap 转换 A-LOAM 点云地图
 
  
  
