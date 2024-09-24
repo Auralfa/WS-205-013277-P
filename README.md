@@ -10,9 +10,9 @@
 
 局部规划使用 DWA, TEB 算法
 
-传感器使用 Hesai 激光雷达 和 Realsense D455 深度相机
+传感器主要使用 Hesai 激光雷达
 
-建图使用 Gmapping 和 RTAB-Map 算法
+建图使用 Gmapping 算法，效果优于 Octomap 转换 
 
  
  
